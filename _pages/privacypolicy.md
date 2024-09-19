@@ -9,7 +9,7 @@ August 28, 2024
 
 # Privacy Policy
 
-We at [App Name] ("we", "our", "us") are committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your information when you use our application, including when signing in via Apple and when providing user-generated content. Please read this policy carefully to understand our practices regarding your personal information and how we will treat it.
+We at RenderAI ("we", "our", "us") are committed to protecting and respecting your privacy. This Privacy Policy and Terms of Use explains how we collect, use, store, and protect your information when you use our application, including when signing in via Apple and when providing user-generated content. Please read this policy carefully to understand our practices regarding your personal information and how we will treat it.
 
 <br>
 
@@ -99,7 +99,7 @@ We are not responsible for monitoring or moderating user-generated content, and 
 
 ### Disclaimer of Liability (applicable law)
 
-Under no circumstances will [App Name] or its developers be held liable for any content provided by users or for any damages or losses arising from the use of the app. Users assume full responsibility for their content, actions, and the consequences of any legal breaches.
+Under no circumstances will RenderAI or its developers be held liable for any content provided by users or for any damages or losses arising from the use of the app. Users assume full responsibility for their content, actions, and the consequences of any legal breaches.
 
 This limitation of liability is enforced to the fullest extent permissible under applicable laws, including but not limited to:
 
@@ -121,8 +121,8 @@ If we make significant changes to how we handle your personal data, we will noti
 
 If you have any questions about this Privacy Policy or your personal information, please contact us at:
 
-**Email**: [contact email]  
-**Address**: [company address]
+<!-- **Email**: [contact email]
+**Address**: [company address] -->
 
 ---
 
