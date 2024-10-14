@@ -35,8 +35,8 @@ features:
     description: Generate images from text inputs. Save the image to your iPhone.
     fontawesome_icon_name: magic
 
-  - title: iPhone Device Preview
-    description: Preview your app in the context of an iPhone device. Five different device colors included.
+  - title: Apple Sign In
+    description: Sign in securely and quickly with Apple Sign In.
     fontawesome_icon_name: mobile
 
   - title: # New Feature Title
