@@ -7,7 +7,7 @@ include_in_header: false
 **Last updated**  
 August 28, 2024
 
-# Privacy Policy
+# Terms of Use & Privacy Policy
 
 We at RenderAI ("we", "our", "us") are committed to protecting and respecting your privacy. This Privacy Policy and Terms of Use explains how we collect, use, store, and protect your information when you use our application, including when signing in via Apple and when providing user-generated content. Please read this policy carefully to understand our practices regarding your personal information and how we will treat it.
 
