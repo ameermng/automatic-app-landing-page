@@ -5,11 +5,11 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 28, 2024
+November 8, 2024
 
-# Terms of Use & Privacy Policy
+# Privacy Policy
 
-We at RenderAI ("we", "our", "us") are committed to protecting and respecting your privacy. This Privacy Policy and Terms of Use explains how we collect, use, store, and protect your information when you use our application, including when signing in via Apple and when providing user-generated content. Please read this policy carefully to understand our practices regarding your personal information and how we will treat it.
+We at RenderAI ("we", "our", "us") are committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your information when you use our application, including when signing in via Apple and when providing user-generated content. Please read this policy carefully to understand our practices regarding your personal information and how we will treat it.
 
 <br>
 
@@ -37,7 +37,7 @@ Users are solely responsible for all content and information they provide. By su
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
+## 2.0 What Personal Information We Collect About You and How We Collect It
 
 We collect your personal information in several ways:
 
@@ -45,9 +45,7 @@ We collect your personal information in several ways:
 - **From third-party services**: Information from Apple Sign-In as described in section 1.1.
 - **Directly from you**: Information you provide through app forms, such as your profile data, or any user-generated content.
 
-This data is collected to provide functionality, personalize your experience, and improve our app services.
-
-### 2.1 Third Parties we collect information from
+### 2.1 Third Parties We Collect Information From
 
 We may also collect or share your information with trusted third-party service providers, who help us operate the app or provide services to you. These parties include:
 
@@ -87,28 +85,6 @@ If you are located in the European Economic Area (EEA), your personal informatio
 
 <br>
 
-## 6.0 User Responsibility for Content
-
-By using our app, you acknowledge that you are solely responsible for all content and information you provide, including but not limited to user-generated content (text, images, media). You agree not to submit any content that:
-
-- Violates any applicable laws or regulations.
-- Infringes on any third-party rights, including intellectual property or privacy rights.
-- Contains harmful, offensive, or inappropriate material.
-
-We are not responsible for monitoring or moderating user-generated content, and you agree to indemnify and hold us harmless for any liability arising from your content. Users are responsible for ensuring that their input and actions comply with all legal standards.
-
-### Disclaimer of Liability (applicable law)
-
-Under no circumstances will RenderAI or its developers be held liable for any content provided by users or for any damages or losses arising from the use of the app. Users assume full responsibility for their content, actions, and the consequences of any legal breaches.
-
-This limitation of liability is enforced to the fullest extent permissible under applicable laws, including but not limited to:
-
-- The General Data Protection Regulation (GDPR) for EEA users.
-- The California Consumer Privacy Act (CCPA) for California residents.
-- The Electronic Communications Privacy Act (ECPA) and other U.S. federal or state laws.
-
-<br>
-
 ## 7.0 Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page, with an updated "Last Updated" date at the top. We encourage you to review this policy periodically for any updates.
@@ -123,7 +99,3 @@ If you have any questions about this Privacy Policy or your personal information
 
 <!-- **Email**: [contact email]
 **Address**: [company address] -->
-
----
-
-This Privacy Policy provides transparency regarding the data you collect, user responsibility, and legal disclaimers for both data storage and user-generated content. Make sure to review and adjust the contact details and app-specific sections for your use case.

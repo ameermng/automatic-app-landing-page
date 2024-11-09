@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: What's New
 include_in_header: false
@@ -20,4 +20,4 @@ This is the first update to our app. Jeez **goodness** by kept more sensually a 
 
 - Much far proper exotically precise unaccountable.
 
-<br>
+<br> -->
