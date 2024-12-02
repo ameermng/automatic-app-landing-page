@@ -32,7 +32,7 @@ mastodon_link:
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: AI Image Generation
-    description: Generate images from text inputs. Save the image to your iPhone.
+    description: Generate images from text inputs. Save the image directly to your iPhone.
     fontawesome_icon_name: magic
 
   - title: Apple Sign In
